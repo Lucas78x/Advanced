@@ -2,14 +2,14 @@
   "ServerInfo": {
     "Maintenance": true,
     "Message": {
-      "Title": "Aviso de Manutenção",
-      "Msg": "O servidor está em manutenção para melhorias."
+      "Title": "Aviso de ManutenÃ§Ã£o",
+      "Msg": "O servidor estÃ¡ em manutenÃ§Ã£o para melhorias."
     }
   },
   "PatchInfo": {
     "DownloadUrl": "https://lucas78x.github.io/Advanced/8ceb2920-263f-4b0c-a5f9-e1ce661d75bf/Patch/",
     "MinPatchVersion": 1,
-    "PatchVersion": 1
+    "PatchVersion": 2
   },
   "LanuncherInfo": {
     "DownloadPath": "http://seuservidor.com/launcher/",
@@ -70,7 +70,7 @@
   ],
   "SupportLanguage": [
     {
-      "TypeName": "Português",
+      "TypeName": "PortuguÃªs",
       "Value": 1046
     },
     {
