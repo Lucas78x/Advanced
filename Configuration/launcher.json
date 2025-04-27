@@ -11,7 +11,7 @@
     "MinPatchVersion": 1,
     "PatchVersion": 3
   },
-  "LanuncherInfo": {
+  "LauncherInfo": {
     "DownloadPath": "http://seuservidor.com/launcher/",
     "CurrentVersion": 3,
     "ExeFileName": "MeuLauncher.exe",
