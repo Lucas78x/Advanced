@@ -1,6 +1,6 @@
 {
   "ServerInfo": {
-    "Maintenance": true,
+    "Maintenance": false,
     "Message": {
       "Title": "Aviso de Manutenção",
       "Msg": "O servidor está em manutenção para melhorias."
